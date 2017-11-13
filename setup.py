@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'flask_beautiful_messages',
   packages = ['flask_beautiful_messages'],
-  version = '1.0',
+  version = '1.1',
   description = 'This library allows Flask developers to quickly create beautiful email and webpage templates',
   author = 'Herbert Dawkins',
   author_email = 'DrDawkins@ClearScienceInc.com',
@@ -10,4 +10,5 @@ setup(
   download_url = 'https://github.com/sudouser2010/flask_beautiful_messages/archive/1.0.tar.gz',
   keywords = ['flask', 'beautiful', 'messages', 'email', 'webpage', 'template'],
   classifiers = [],
+  install_requires=['flask==0.12.2'],
 )
