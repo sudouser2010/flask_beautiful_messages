@@ -1,1 +1,1 @@
-from flask_render_specific_template import *
+from flask_beautiful_messages import *

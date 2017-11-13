@@ -2,5 +2,5 @@
 LICENSE.txt
 setup.cfg
 setup.py
-flask_render_specific_template/__init__.py
-flask_render_specific_template/template.py
+flask_beautiful_messages/__init__.py
+flask_beautiful_messages/helper.py
