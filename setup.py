@@ -11,5 +11,5 @@ setup(
   download_url = 'https://github.com/sudouser2010/flask_beautiful_messages/archive/1.2.1.tar.gz',
   keywords = ['flask', 'beautiful', 'messages', 'email', 'webpage', 'template'],
   classifiers = [],
-  install_requires=['flask==0.12.2'],
+  install_requires=['flask==1.0'],
 )
